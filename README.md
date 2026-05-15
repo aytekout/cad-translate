@@ -4,8 +4,6 @@
 
 Built for architects, engineers, and construction professionals working with Japanese drawings.
 
-![CAD Translate GUI](docs/screenshots/gui-preview.png)
-
 ---
 
 ## Features
@@ -34,7 +32,7 @@ Built for architects, engineers, and construction professionals working with Jap
 
 ### 1. Download
 
-Download `cad-translate.lsp` from the [releases page](https://github.com/YOUR_USERNAME/cad-translate/releases).
+Download `cad-translate.lsp` from the [releases page](https://github.com/aytekout/cad-translate/releases).
 
 ### 2. Load in AutoCAD
 
