@@ -4,7 +4,7 @@
 
 Built for architects, engineers, and construction professionals working with Japanese drawings.
 
-<img width="2127" height="1771" alt="screenshot-1778847422203" src="https://github.com/user-attachments/assets/42f8320d-b6d2-4cf6-94df-9632c33ba1f0" />
+<img width="1764" height="1768" alt="image" src="https://github.com/user-attachments/assets/ef92dfe0-38be-4609-9e60-c1b1473c5bee" />
 
 ---
 
