@@ -195,4 +195,4 @@ MIT License — free to use, modify, and distribute.
 
 ## Credits
 
-Built by [@aytekin](https://github.com/YOUR_USERNAME) for real-world use on EXPO 2025 Osaka construction projects.
+Built by [@aytekout](https://github.com/aytekout) for real-world use on Japan construction projects.
